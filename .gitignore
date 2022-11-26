@@ -1,3 +1,4 @@
 logs/*.log
-# !logs/sample.log
+!logs/sample.log
 fgfgf
+some changes 3
